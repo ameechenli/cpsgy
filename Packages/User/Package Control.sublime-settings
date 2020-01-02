@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"C++ Starting Kit",
+		"C++11",
+		"C11",
+		"CMake",
+		"CMakeEditor",
+		"CMakeFormat",
+		"Color Scheme - Chromodynamics",
+		"ConvertToUTF8",
+		"CTags"
+	]
+}
